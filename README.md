@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RobotAnchovi
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything related to algorithm creation in python
+- 👀 I’m interested in becoming a Full Stack Developer
+- 🌱 I’m currently learning the basics with Odin
+- 💞️ I’m looking to learn and collaborate on projects that will help me develop
 - 📫 How to reach me whitlockj85@gmail.com
 
 <!---
