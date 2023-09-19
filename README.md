@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RobotAnchovi
-- 👀 I’m interested in becoming a Full Stack Developer
-- 🌱 I’m currently learning the basics with Odin
-- 💞️ I’m looking to learn and collaborate on projects that will help me develop
+- 👀 I’m interested in becoming a Software Engineer
+- 🌱 I’m currently learning through appAcademy and develop a few personal projects that excite me.
+- 💞️ I’m looking to learn and collaborate on projects that will help me develop as an engineer while creating and maintaining efficient programs.
 - 📫 How to reach me whitlockj85@gmail.com
 
 <!---
