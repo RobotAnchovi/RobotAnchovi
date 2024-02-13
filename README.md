@@ -1,5 +1,3 @@
-
-
 # 💫 About Me:
 <a href="https://app.daily.dev/robotanchovi"><img src="https://github.com/robotanchovi/robotanchovi/blob/main/devcard.svg" width="350" alt="Jason Whitlock's Dev Card"/></a>
 
